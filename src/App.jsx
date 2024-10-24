@@ -250,7 +250,7 @@ export default function Home() {
               transition={{ duration: 0.5 }}
             >
             <img 
-                src="./src/pic.jpg" 
+                src="/Image.jpg" 
                 alt="Aariya Tharshan V" 
                 width={400} 
                 height={400}
